@@ -190,3 +190,15 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+
+#container {
+  box-sizing: border-box;
+}
+#container div {
+  box-sizing: border-box;
+}
+
+#header div {
+  box-sizing: border-box;
+}
