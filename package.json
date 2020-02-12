@@ -29,11 +29,11 @@
         "@fortawesome/fontawesome-free": "5.3.1",
         "bootstrap": "^4.3.1",
         "extend": "^3.0.2",
-        "jquery": "3.3.1",
+        "jquery": "^3.4.1",
         "popper.js": "^1.14.7"
     },
     "devDependencies": {
-        "browser-sync": "^2.26.3",
+        "browser-sync": "^2.26.7",
         "gulp": "^4.0.0",
         "gulp-autoprefixer": "6.0.0",
         "gulp-clean-css": "3.10.0",
